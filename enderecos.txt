@@ -1,0 +1,20 @@
+Rua das Flores, 123
+Avenida Brasil, 456
+Rua das Palmeiras, 789
+Rua da Liberdade, 321
+Av. Central, 987
+Rua das Acácias, 654
+Rua do Comércio, 111
+Rua Dom Pedro II, 222
+Rua XV de Novembro, 333
+Avenida Atlântica, 444
+Rua Santa Maria, 555
+Rua do Sol, 777
+Rua Cruzeiro do Sul, 888
+Rua da Esperança, 999
+Avenida Paulista, 1010
+Rua das Laranjeiras, 202
+Rua do Progresso, 303
+Rua Alameda Verde, 404
+Rua do Campo, 505
+Avenida dos Bandeirantes, 606
